@@ -21,7 +21,7 @@
 title: Accelerating the Use of Autonomy on Robotic Space Missions 
 email: marie.farrell@mu.ie
 description: >- # this means to ignore newlines until "baseurl:"
-  A workshop to focus on the following questions
+  Accelerating the Use of Autonomy on Robotic Space Missions Workshop
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://accelerating-autonomy-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 images: "/images/"

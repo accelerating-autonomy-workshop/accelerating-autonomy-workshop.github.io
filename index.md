@@ -7,7 +7,7 @@ layout: page
 
 <img alt="Accelerating Autonomy Workshop Logo" style="float: right; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
 
-A workshop to focus on the following questions:
+The Accelerating the Use of Autonomy on Robotic Space Missions Workshop will focus on the following questions:
 
 - What are the impediments to making more use of autonomy on robotic space missions?
 
