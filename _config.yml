@@ -37,7 +37,7 @@ icon : /images/favicon.ico
 #Collections
 collections:
   workshops:
-    output: true
+    output: false
 
 # Build settings
 theme: minima
