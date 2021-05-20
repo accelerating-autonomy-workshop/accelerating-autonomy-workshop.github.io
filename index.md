@@ -1,0 +1,29 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+
+<img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
+
+A workshop to focus on the following questions:
+
+- What are the impediments to making more use of autonomy on robotic space missions?
+
+- Which of those impediments apply to which kinds of space missions?
+
+- In order to overcome those impediments,
+
+	- What has been done in the past that has proven successful?
+
+	- What approaches show promise, and what needs to be done to prove their worth?
+
+	- What further ideas can be proposed?
+## Organisers
+
+
+The Accelerating the Use of Autonomy on Robotic Space Missions Workshop is organised by:
+
+  {% include chairs.html %}
+
