@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="Accelerating Autonomy Workshop Logo" style="float: left; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
+<img alt="Accelerating Autonomy Workshop Logo" style="float: right; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
 
 A workshop to focus on the following questions:
 
@@ -20,6 +20,7 @@ A workshop to focus on the following questions:
 	- What approaches show promise, and what needs to be done to prove their worth?
 
 	- What further ideas can be proposed?
+
 ## Organisers
 
 
@@ -27,3 +28,6 @@ The Accelerating the Use of Autonomy on Robotic Space Missions Workshop is organ
 
   {% include chairs.html %}
 
+
+## Registration
+  {% include registration.html}
