@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="FMAS Workshop Logo" style="float: left; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
+<img alt="Accelerating Autonomy Workshop Logo" style="float: left; margin: 1em" src="{{site.logos}}/acceleratingautonomylogo.png">
 
 A workshop to focus on the following questions:
 
