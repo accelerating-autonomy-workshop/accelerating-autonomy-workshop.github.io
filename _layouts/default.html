@@ -11,8 +11,8 @@
   <meta property="og:locale" content="en_UK"/>
   <meta property="og:site_name" content="{{ site.title }}" />
 
-  <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <!--<meta name="twitter:site" content="@{{ site.twitter_username }}" />-->
+ <!--<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" /> -->
 
   {% if page.title %}
     <!-- Article specific OG data -->
@@ -40,33 +40,33 @@
     {% endfor %}
 
     <!-- I prefer the summary_large_image Twitter card for posts. -->
-    <meta name="twitter:card" content="summary_large_image" />
+    <!--<meta name="twitter:card" content="summary_large_image" /> -->
     <!-- You, you're the creator. -->
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}"  />
+    <!-- <meta name="twitter:creator" content="@{{ site.twitter_username }}"  />-->
     <!-- This property is for the article title, not site title. -->
-    <meta name="twitter:title" content="{{page.title}}" />
+    <!--<meta name="twitter:title" content="{{page.title}}" />-->
 
     {% if page.image %}
     <meta property="og:image" content="{{site.url}}{{page.image}}" />
-    <meta name="twitter:image" content="{{site.url}}{{page.image}}" />
-    {% else %}
+    <!--<meta name="twitter:image" content="{{site.url}}{{page.image}}" />
+    {% else %}-->
     <meta property="og:image" content="{{ site.url }}{{site.card_picture}}" />
-    <meta name="twitter:image" content="{{ site.url }}{{site.card_picture}}" />
+    <!--<meta name="twitter:image" content="{{ site.url }}{{site.card_picture}}" />-->
     {% endif %}
 
   {% else %}
     <!-- OG data for homepage -->
     <meta property="og:image" content="{{ site.url }}{{site.card_picture}}" />
     <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{site.title}}" />
-    <meta name="twitter:image" content="{{ site.url }}{{site.card_picture}}" />
+    <!--<meta name="twitter:card" content="summary" />-->
+    <!--<meta name="twitter:title" content="{{site.title}}" />-->
+    <!--<meta name="twitter:image" content="{{ site.url }}{{site.card_picture}}" />-->
 
   {% endif %}
 
 
   <!-- The Author meta propagates the byline in a number of social networks -->
-  <meta name="author" content="Matt Luckcuck and Marie Farrell" />
+  <meta name="author" content="Marie Farrell" />
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
