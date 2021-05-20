@@ -30,4 +30,4 @@ The Accelerating the Use of Autonomy on Robotic Space Missions Workshop is organ
 
 
 ## Registration
-  {% include registration.html}
+  {% include registration.html%}
