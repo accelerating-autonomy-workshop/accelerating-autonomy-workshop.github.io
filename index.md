@@ -21,6 +21,10 @@ The Accelerating the Use of Autonomy on Robotic Space Missions Workshop will foc
 
 	- What further ideas can be proposed?
 
+Those interested in participating are encouraged to suggest answers to any of the above questions and email them in advance to Martin.S.Feather@jpl.nasa.gov.
+
+Answers are also welcomed from those not planning to participate in the workshop. 
+
 ## Organisers
 
 
