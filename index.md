@@ -25,7 +25,7 @@ Those interested in participating are encouraged to suggest answers to any of th
 
 Answers are also welcomed from those not planning to participate in the workshop.
 
-We provide a detailed list of potential further questions and answers below to give participants an idea of where the discussion may lead. 
+We provide a detailed list of potential impediments and ways they might be addressed below to give participants an idea of where the discussion may lead. 
 
 ## Organisers
 
@@ -38,7 +38,7 @@ The Accelerating the Use of Autonomy on Robotic Space Missions Workshop is organ
 ## Registration
   {% include registration.html%}
 
-## Potential Questions and Answers
+## Potential Impediments
 To start your thinking, here is a draft list of possible impediments. Are there more? To which kinds of missions do they apply? How can they be addressed?
 
 1) Verification and Validation challenges:
@@ -109,16 +109,16 @@ To start your thinking, here is a draft list of possible impediments. Are there 
 
 And here are a few examples of how some of those impediments might be addressed – a goal of the workshop is provide improvements to, and many more of, these answers!
 
-1a) Guide testing towards scenarios where the system is getting closer to the edge of failure
+1 a) Guide testing towards scenarios where the system is getting closer to the edge of failure
 
-1a) Use formal methods to check the correctness of decision algorithms
+1 a) Use formal methods to check the correctness of decision algorithms
 
-2b) Gather together from as many places as possible information on the effort it has taken to develop kinds of autonomy
+2 b) Gather together from as many places as possible information on the effort it has taken to develop kinds of autonomy
 
-3a) Involve operations teams from the start of an autonomy development
+3 a) Involve operations teams from the start of an autonomy development
 
-3c) Direct autonomy (e.g., an autonomous planner) to exclude common solutions to see what unusual solutions it discovers
+3 c) Direct autonomy (e.g., an autonomous planner) to exclude common solutions to see what unusual solutions it discovers
 
-4f) Insist that autonomy developments be design and made to be reusable
+4 f) Insist that autonomy developments be design and made to be reusable
 
-4i) Collaborate with other areas where autonomy can be infused and operated more frequently and more quickly, e.g., underwater vehicles, maritime automation 
+4 i) Collaborate with other areas where autonomy can be infused and operated more frequently and more quickly, e.g., underwater vehicles, maritime automation 
