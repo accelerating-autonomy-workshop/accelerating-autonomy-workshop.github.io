@@ -27,6 +27,9 @@ Answers are also welcomed from those not planning to participate in the workshop
 
 We provide a detailed list of potential impediments and ways they might be addressed below to give participants an idea of where the discussion may lead. 
 
+## Agenda
+  {% include agenda.html%}
+
 ## Registration
   {% include registration.html%}
 
